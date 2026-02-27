@@ -1,0 +1,174 @@
+﻿Species;Treatment;Site;Block;Plot;Tree_ID;Family;DBH;Height;Sampled_density;Chave_local;Nogueira_local;Literature_density;Chave_literature;Nogueira_literature;sp
+Aloysia virgata ;CON;1;1;2;1296;Verbenaceae;12.5;10;0.6169;55.01;72.74;0.6000;53.54;70.60;1
+Aloysia virgata ;CMLT;1;1;2;1648;Verbenaceae;18.4;10.3;0.6169;120.43;166.13;0.6000;117.20;161.23;1
+Aloysia virgata ;CMLT;1;1;2;1651;Verbenaceae;10.6;7;0.6169;28.15;45.50;0.6000;27.40;44.16;1
+Aloysia virgata ;CMLM;1;1;1;1670;Verbenaceae;11.2;6.8;0.6169;30.47;50.61;0.6000;29.65;49.12;1
+Aloysia virgata ;CMLM;1;1;1;1667;Verbenaceae;12.7;7.4;0.6169;42.48;68.22;0.6000;41.34;66.21;1
+Aloysia virgata ;SAFT;1;2;2;7495;Verbenaceae;12.4;8.7;0.6169;47.27;68.21;0.6000;46.01;66.20;1
+Anadenanthera colubrina ;DIV;1;3;1;1725;Fabaceae;12.7;12.6;0.6818;78.39;90.62;0.8354;95.58;112.78;2
+Anadenanthera colubrina ;SAFM;1;2;2;7464;Fabaceae;36;19.4;0.6818;912.98;945.68;0.8354;1113.16;1176.93;2
+Anadenanthera colubrina ;SAFM;1;3;1;3236;Fabaceae;22.6;22.5;0.6818;425.22;372.40;0.8354;518.45;463.46;2
+Anadenanthera colubrina ;DIV;2;1;1;77;Fabaceae;33.2;22.3;0.6818;893.04;835.83;0.8354;1088.84;1040.21;2
+Anadenanthera colubrina ;DIV;2;2;1;441;Fabaceae;28.3;21;0.6818;616.65;584.68;0.8354;751.85;727.65;2
+Anadenanthera colubrina ;SAFT;2;3;1;701;Fabaceae;17.6;20.6;0.6818;239.46;213.23;0.8354;291.97;265.37;2
+Aspidosperma polyneuron ;CMLM;1;2;1;1372;Apocynaceae;13.3;10.6;0.7026;74.62;97.29;0.7110;75.49;98.54;3
+Aspidosperma polyneuron ;CMLM;1;2;1;1373;Apocynaceae;13;10.3;0.7026;69.40;91.82;0.7110;70.21;93.00;3
+Aspidosperma polyneuron ;CMLM;1;2;1;1389;Apocynaceae;13.4;8.2;0.7026;58.94;90.58;0.7110;59.62;91.75;3
+Aspidosperma polyneuron ;SAFM;1;2;2;7476;Apocynaceae;15;11.1;0.7026;98.71;127.38;0.7110;99.86;129.02;3
+Cedrela fissilis;CMLM;1;1;1;1658;Meliaceae;13.8;12.1;0.3545;46.80;52.66;0.4622;60.63;70.07;4
+Cedrela fissilis;CMLM;1;1;1;1661;Meliaceae;17.2;13.7;0.3545;81.21;87.42;0.4622;105.21;116.33;4
+Cedrela fissilis;DIV;1;3;1;1702;Meliaceae;10.9;9.7;0.3545;23.80;29.69;0.4622;30.83;39.51;4
+Cedrela fissilis;SAFM;2;2;1;309;Meliaceae;19.9;14.3;0.3545;112.57;120.66;0.4622;145.82;160.56;4
+Cedrela fissilis;SAFM;2;2;2;339;Meliaceae;21.1;9.7;0.3545;86.40;119.65;0.4622;111.93;159.21;4
+Cedrela fissilis;CMLM;2;3;1;684;Meliaceae;17.7;9;0.3545;56.99;80.51;0.4622;73.83;107.13;4
+Ceiba speciosa ;DIV;1;3;1;1728;Malvaceae;16.1;11.5;0.3710;62.91;75.25;0.3109;52.94;62.21;5
+Ceiba speciosa ;DIV;1;3;;4996;Malvaceae;17.5;14;0.3710;89.69;95.93;0.3109;75.48;79.30;5
+Ceiba speciosa ;SEM;1;2;;4999;Malvaceae;51;21.4;0.3710;1094.93;1058.71;0.3109;921.45;875.21;5
+Ceiba speciosa ;SEM;1;1;;460b;Malvaceae;30.2;13.6;0.3710;252.95;300.39;0.3109;212.87;248.32;5
+Ceiba speciosa ;SEM;1;1;;203;Malvaceae;21.4;11.5;0.3710;109.63;137.17;0.3109;92.26;113.40;5
+Centrolobium tomentosum;DIV;1;1;2;1322;Fabaceae;11.9;10.7;0.5710;49.50;61.74;0.6150;53.22;66.87;6
+Centrolobium tomentosum;CMLM;1;1;2;1681;Fabaceae;11.2;9.6;0.5710;39.56;52.36;0.6150;42.53;56.71;6
+Centrolobium tomentosum;DIV;1;2;2;4971;Fabaceae;22.2;20;0.5710;307.88;284.64;0.6150;331.01;308.33;6
+Centrolobium tomentosum;DIV;2;1;2;95;Fabaceae;12.9;19.5;0.5710;104.10;89.76;0.6150;111.92;97.23;6
+Centrolobium tomentosum;DIV;2;2;1;455;Fabaceae;22.2;16.9;0.5710;261.21;268.80;0.6150;280.84;291.17;6
+Centrolobium tomentosum;CMLM;2;2;1;522;Fabaceae;16.2;12.8;0.5710;107.67;125.80;0.6150;115.76;136.27;6
+Citharexylum myrianthum ;DIV;1;1;2;1325;Verbenaceae;28.2;12;0.3770;198.93;253.46;0.4850;254.37;332.46;7
+Citharexylum myrianthum ;DIV;1;3;1;1722;Verbenaceae;17.1;18.8;0.3770;116.12;102.75;0.4850;148.49;134.78;7
+Citharexylum myrianthum ;DIV;1;3;1;1724;Verbenaceae;17.3;17.4;0.3770;110.15;102.57;0.4850;140.84;134.54;7
+Citharexylum myrianthum ;DIV;1;3;1;1730;Verbenaceae;18.3;12.5;0.3770;89.00;103.20;0.4850;113.81;135.37;7
+Citharexylum myrianthum ;DIV;1;3;2;1750;Verbenaceae;12.6;13;0.3770;44.63;47.59;0.4850;57.07;62.42;7
+Citharexylum myrianthum ;DIV;1;2;2;4968;Verbenaceae;26.5;16.3;0.3770;237.57;246.69;0.4850;303.79;323.58;7
+Copaifera langsdorffii;CMLM;1;2;1;1374;Fabaceae;10.9;8.9;0.5749;35.08;48.54;0.6300;38.36;53.57;8
+Copaifera langsdorffii;DIV;1;3;2;1760;Fabaceae;12.7;14.6;0.5749;76.63;79.29;0.6300;83.79;87.51;8
+Copaifera langsdorffii;DIV;1;3;2;1762;Fabaceae;13.6;16.1;0.5749;96.36;94.71;0.6300;105.37;104.53;8
+Copaifera langsdorffii;CMLM;2;3;1;682;Fabaceae;10.6;7.7;0.5749;28.84;43.56;0.6300;31.53;48.08;8
+Copaifera langsdorffii;DIV;2;2;2;463;Fabaceae;13.8;12.8;0.5749;79.26;90.35;0.6300;86.67;99.71;8
+Copaifera langsdorffii;CMLM;2;3;1;676;Fabaceae;12.1;7.7;0.5749;37.34;57.60;0.6300;40.83;63.57;8
+Croton floribundus ;DIV;1;3;2;1754;Euphorbiaceae;21.1;16;0.4303;170.14;174.76;0.4967;195.70;203.96;9
+Croton floribundus ;SEM;1;2;2;1999;Euphorbiaceae;18.1;13.3;0.4303;105.30;118.75;0.4967;121.13;138.59;9
+Croton floribundus ;DIV;1;2;2;4973;Euphorbiaceae;16;13.6;0.4303;84.60;92.24;0.4967;97.31;107.65;9
+Croton floribundus ;DIV;2;1;2;105;Euphorbiaceae;14.3;13;0.4303;65.01;71.67;0.4967;74.78;83.64;9
+Croton floribundus ;DIV;2;2;1;456;Euphorbiaceae;23.3;14;0.4303;181.25;205.88;0.4967;208.48;240.28;9
+Croton floribundus ;CMLM;2;2;1;510;Euphorbiaceae;12;8.2;0.4303;29.45;42.32;0.4967;33.87;49.39;9
+Dipteryx alata ;DIV;1;3;1;1713;Fabaceae;10.2;13.8;0.6943;56.84;60.02;0.9367;76.14;82.86;10
+Dipteryx alata ;DIV;1;3;2;1740;Fabaceae;13;16.9;0.6943;111.22;107.27;0.9367;148.98;148.10;10
+Dipteryx alata ;DIV;1;3;2;1742;Fabaceae;15.6;15.5;0.6943;145.92;153.04;0.9367;195.45;211.28;10
+Dipteryx alata ;DIV;2;1;2;101;Fabaceae;14;14.2;0.6943;108.45;118.22;0.9367;145.26;163.21;10
+Dipteryx alata ;DIV;2;2;2;474;Fabaceae;10.7;12.3;0.6943;55.78;63.85;0.9367;74.71;88.15;10
+Dipteryx alata ;DIV;2;2;2;480;Fabaceae;18.3;12.8;0.6943;165.31;200.82;0.9367;221.42;277.25;10
+Enterolobium contortisiliquum ;SAFM;1;1;2;2012;Fabaceae;10.4;8.9;0.3268;18.44;23.93;0.3835;21.56;28.42;11
+Enterolobium contortisiliquum ;CMLM;1;3;2;1269;Fabaceae;18.8;10.3;0.3268;67.55;87.69;0.3835;78.96;104.18;11
+Enterolobium contortisiliquum ;CMLM;1;1;2;1695;Fabaceae;25.8;16;0.3268;192.60;198.63;0.3835;225.14;235.97;11
+Enterolobium contortisiliquum ;CMLT;2;2;1;492;Fabaceae;14.5;8.3;0.3268;32.96;47.11;0.3835;38.53;55.96;11
+Enterolobium contortisiliquum ;SAFM;2;2;2;332;Fabaceae;25.2;10.4;0.3268;120.81;163.26;0.3835;141.22;193.95;11
+Enterolobium contortisiliquum ;SAFM;2;3;1;715;Fabaceae;26.2;9.4;0.3268;118.10;171.24;0.3835;138.05;203.43;11
+Ficus  guaranitica;DIV;1;1;2;1323;Moraceae;22.3;14;0.5367;206.42;238.11;0.4000;154.93;173.49;12
+Ficus  guaranitica;DIV;1;3;1;1720;Moraceae;24.6;17.4;0.5367;309.11;315.37;0.4000;232.01;229.79;12
+Ficus  guaranitica;DIV;1;3;;413;Moraceae;40.1;16.3;0.5367;752.78;864.86;0.4000;565.01;630.15;12
+Ficus  guaranitica;DIV;2;2;1;442;Moraceae;15.6;11.6;0.5367;85.53;105.09;0.4000;64.20;76.57;12
+Ficus  guaranitica;DIV;2;1;;313;Moraceae;14.4;13.3;0.5367;83.61;92.99;0.4000;62.75;67.75;12
+Hymenaea courbaril ;CMLM;1;1;1;1672;Fabaceae;12.4;11.2;0.7560;73.76;92.53;0.7898;76.98;96.99;13
+Hymenaea courbaril ;CMLT;1;3;1;1203;Fabaceae;16.4;15.3;0.7560;172.62;185.58;0.7898;180.15;194.54;13
+Hymenaea courbaril ;SAFM;1;2;2;7465;Fabaceae;28.1;13.1;0.7560;424.41;548.35;0.7898;442.93;574.82;13
+Hymenaea courbaril ;DIV;2;1;2;98;Fabaceae;11.8;16.5;0.7560;97.73;95.07;0.7898;102.00;99.66;13
+Hymenaea courbaril ;CMLT;2;3;2;668;Fabaceae;13.9;8.5;0.7560;70.43;107.20;0.7898;73.50;112.37;13
+Hymenaea courbaril ;SAFM;2;3;2;722;Fabaceae;21.2;14.9;0.7560;277.64;316.13;0.7898;289.76;331.39;13
+Lonchocaspus cultratus;CMLT;1;3;2;1216;Fabaceae;26.2;25.4;0.5578;525.07;427.03;0.5900;554.64;453.64;14
+Lonchocaspus cultratus;CON;1;1;2;1768;Fabaceae;13.4;9.2;0.5578;52.64;73.47;0.5900;55.61;78.04;14
+Lonchocaspus cultratus;SEM;1;2;1;1966;Fabaceae;18.2;15.5;0.5578;159.22;167.37;0.5900;168.19;177.79;14
+Lonchocaspus cultratus;SEM;1;2;1;1968;Fabaceae;13.7;8.9;0.5578;53.22;76.12;0.5900;56.21;80.86;14
+Lonchocaspus cultratus;SEM;1;2;1;1975;Fabaceae;13.9;12.3;0.5578;75.07;87.61;0.5900;79.30;93.06;14
+Lonchocaspus cultratus;SEM;1;1;1;3269;Fabaceae;17.7;16.5;0.5578;160.28;161.20;0.5900;169.31;171.25;14
+Luehea divaricata ;DIV;2;1;;496;Malvaceae;19.9;8.1;0.6699;120.29;197.39;0.5548;100.08;161.12;15
+Luehea divaricata ;DIV;1;2;1;4964;Malvaceae;20.6;9.6;0.6699;152.57;226.02;0.5548;126.93;184.48;15
+Luehea divaricata ;DIV;1;2;2;4974;Malvaceae;33.8;12.3;0.6699;507.22;693.65;0.5548;421.97;566.19;15
+Luehea divaricata ;DIV;1;1;1;1312;Malvaceae;23.3;6.3;0.6699;127.67;251.94;0.5548;106.21;205.65;15
+Luehea divaricata ;DIV;1;1;;2876;Malvaceae;30.6;12;0.6699;408.89;559.31;0.5548;340.17;456.54;15
+Machaerium brasiliensis;CON;1;1;1;1270;Fabaceae;14.9;7.9;0.5182;51.94;80.61;0.6300;62.85;99.48;16
+Machaerium brasiliensis;CON;1;1;1;1271;Fabaceae;16.4;10;0.5182;78.84;106.93;0.6300;95.40;131.96;16
+Machaerium brasiliensis;CON;1;1;2;1276;Fabaceae;15.7;9.5;0.5182;68.87;95.84;0.6300;83.33;118.28;16
+Machaerium brasiliensis;CON;1;1;1;3288;Fabaceae;10.3;9.2;0.5182;29.31;38.95;0.6300;35.47;48.07;16
+Machaerium brasiliensis;CON;1;1;1;3297;Fabaceae;13;10.7;0.5182;53.51;67.01;0.6300;64.75;82.71;16
+Machaerium brasiliensis;DIV;1;2;1;4965;Fabaceae;19.4;14.8;0.5182;160.45;174.14;0.6300;194.15;214.92;16
+Machaerium hirtum ;DIV;1;1;2;1321;Fabaceae;14.9;13.8;0.3448;60.15;62.83;0.6600;113.36;126.44;17
+Machaerium hirtum ;DIV;1;3;1;1721;Fabaceae;16.7;16.2;0.3448;87.88;84.41;0.6600;165.62;169.85;17
+Machaerium hirtum ;DIV;1;2;2;4976;Fabaceae;15.9;10.7;0.3448;53.27;66.09;0.6600;100.39;132.99;17
+Machaerium hirtum ;DIV;2;2;1;451;Fabaceae;24.5;11.9;0.3448;137.43;170.62;0.6600;258.99;343.34;17
+Machaerium hirtum ;DIV;2;2;2;460;Fabaceae;24.4;19;0.3448;215.24;198.32;0.6600;405.64;399.08;17
+Machaerium hirtum ;DIV;2;2;2;475;Fabaceae;14.4;11.9;0.3448;48.70;55.60;0.6600;91.78;111.87;17
+Mimosa caesalpiniifolia ;CMLT;1;3;2;1218;Fabaceae;33.0;10.6;0.7578;472.72;716.88;0.8000;498.40;759.96;18
+Mimosa caesalpiniifolia ;CMLT;1;2;2;1357;Fabaceae;28.0;10.6;0.7578;344.55;509.30;0.8000;363.26;539.91;18
+Mimosa caesalpiniifolia ;SAFM;1;2;1;7445;Fabaceae;10.8;11.9;0.7578;59.90;70.75;0.8000;63.16;75.00;18
+Mimosa caesalpiniifolia ;DIV;2;1;1;76;Fabaceae;21.3;17.9;0.7578;335.92;340.70;0.8000;354.17;361.18;18
+Mimosa caesalpiniifolia ;CMLT;2;1;2;196;Fabaceae;11.9;13.4;0.7578;81.28;90.40;0.8000;85.69;95.83;18
+Moquiniastrum polymorphum ;CON;2;3;1;744;Asteraceae;10.8;6.5;0.5885;25.94;43.87;0.9550;41.60;73.90;19
+Moquiniastrum polymorphum ;CON;2;3;2;751;Asteraceae;27.4;9.1;0.5885;222.31;351.75;0.9550;356.58;592.49;19
+Moquiniastrum polymorphum ;CON;2;3;2;755;Asteraceae;24.3;10.1;0.5885;194.18;282.07;0.9550;311.47;475.12;19
+Moquiniastrum polymorphum ;CON;2;3;2;761;Asteraceae;16.2;7.2;0.5885;63.24;106.86;0.9550;101.44;180.00;19
+Moquiniastrum polymorphum ;CON;2;3;2;766;Asteraceae;14.6;7.9;0.5885;56.71;88.88;0.9550;90.96;149.71;19
+Myroxylon peruiferum ;CMLM;2;1;1;119;Fabaceae;12.3;10.2;0.7021;61.66;81.37;0.8179;71.57;95.91;20
+Myroxylon peruiferum ;CMLM;2;1;1;131;Fabaceae;14.5;11.2;0.7021;93.14;118.86;0.8179;108.11;140.11;20
+Myroxylon peruiferum ;CMLT;2;1;1;183;Fabaceae;12.9;17;0.7021;111.40;107.03;0.8179;129.31;126.17;20
+Myroxylon peruiferum ;CMLT;1;3;2;1219;Fabaceae;17;15.3;0.7021;172.26;184.87;0.8179;199.95;217.92;20
+Myroxylon peruiferum ;CMLM;1;2;2;3583;Fabaceae;23.5;16.6;0.7021;350.95;376.36;0.8179;407.36;443.65;20
+Myroxylon peruiferum ;CMLM;1;2;2;3584;Fabaceae;20.2;16.2;0.7021;255.05;271.23;0.8179;296.05;319.72;20
+Parapiptadenia rigida ;SEM;2;1;1;242;Fabaceae;11;9;0.7264;45.36;63.90;0.7667;47.81;67.72;21
+Parapiptadenia rigida ;SEM;2;1;2;254;Fabaceae;11.5;13.4;0.7264;72.96;80.36;0.7667;76.90;85.16;21
+Parapiptadenia rigida ;CMLM;2;3;1;677;Fabaceae;10.5;4.9;0.7264;22.88;47.11;0.7667;24.12;49.93;21
+Peltophorum dubium ;SAFM;1;3;2;3244;Fabaceae;13.4;15.7;0.5284;84.13;83.11;0.6999;110.68;112.50;22
+Peltophorum dubium ;SAFM;1;3;2;3249;Fabaceae;30.8;22.5;0.5284;606.75;543.83;0.6999;798.29;736.11;22
+Peltophorum dubium ;CMLM;1;2;2;3593;Fabaceae;38.8;17.9;0.5284;761.75;819.00;0.6999;1002.22;1108.57;22
+Peltophorum dubium ;CMLT;2;1;2;201;Fabaceae;26.6;17.2;0.5284;350.65;364.30;0.6999;461.34;493.10;22
+Peltophorum dubium ;CMLM;2;2;1;533;Fabaceae;19.2;9.9;0.5284;108.24;151.76;0.6999;142.40;205.42;22
+Peltophorum dubium ;SAFM;2;3;2;725;Fabaceae;14.3;11.5;0.5284;70.48;85.76;0.6999;92.73;116.08;22
+Piptadenia gonoacantha;DIV;1;3;1;1727;Fabaceae;35.7;18.5;0.6418;808.36;856.61;0.6375;803.07;850.43;23
+Piptadenia gonoacantha;CMLT;1;1;2;1643;Fabaceae;11.8;13;0.6418;66.00;73.49;0.6375;65.57;72.96;23
+Piptadenia gonoacantha;CON;2;1;;248;Fabaceae;11.8;10.2;0.6418;52.09;67.67;0.6375;51.75;67.18;23
+Piptadenia gonoacantha;CMLT;2;2;2;505;Fabaceae;13.5;10;0.6418;66.44;89.29;0.6375;66.01;88.65;23
+Piptadenia gonoacantha;DIV;2;3;2;599;Fabaceae;22.6;13.7;0.6418;247.98;296.03;0.6375;246.36;293.89;23
+Poecilanthe parviflora;DIV;1;2;2;4972;Fabaceae;16.6;9.7;0.9301;139.28;204.78;0.9000;134.88;197.65;24
+Poecilanthe parviflora;DIV;2;1;;424;Fabaceae;17.6;12.7;0.9301;202.23;252.74;0.9000;195.84;243.94;24
+Poecilanthe parviflora;DIV;2;1;1;79;Fabaceae;27.2;12.7;0.9301;473.59;634.07;0.9000;458.62;612.00;24
+Poecilanthe parviflora;DIV;2;1;1;87;Fabaceae;14.4;12.2;0.9301;130.77;162.36;0.9000;126.64;156.71;24
+Poecilanthe parviflora;DIV;2;1;2;109;Fabaceae;11.9;11.7;0.9301;86.96;107.63;0.9000;84.21;103.88;24
+Psidium guajava;SAFM;2;1;2;67;Myrtaceae;10.5;4;0.5191;13.52;30.62;0.6518;16.89;39.12;25
+Psidium guajava;CON;2;1;1;275;Myrtaceae;17.5;6.8;0.5191;61.55;107.81;0.6518;76.87;137.76;25
+Psidium guajava;CON;2;1;2;291;Myrtaceae;13.4;7.5;0.5191;40.02;63.12;0.6518;49.98;80.65;25
+Psidium guajava;CON;2;2;1;559;Myrtaceae;15.6;8;0.5191;57.70;89.50;0.6518;72.05;114.36;25
+Psidium guajava;CON;2;2;1;563;Myrtaceae;18.3;6.4;0.5191;63.13;115.71;0.6518;78.84;147.86;25
+Psidium guajava;CON;2;2;2;570;Myrtaceae;10.4;5.5;0.5191;18.11;33.44;0.6518;22.62;42.73;25
+Pterogyne nitens ;DIV;1;1;2;1314;Fabaceae;16.5;15.3;0.7043;163.01;174.17;0.6821;157.99;168.26;26
+Pterogyne nitens ;DIV;1;1;1;1306;Fabaceae;24.6;17.5;0.7043;405.26;423.43;0.6821;392.78;409.07;26
+Pterogyne nitens ;SAFM;1;2;2;7469;Fabaceae;28.6;20.2;0.7043;625.57;610.99;0.6821;606.30;590.25;26
+Pterogyne nitens ;CMLT;2;3;1;651;Fabaceae;11.8;9.5;0.7043;53.21;73.01;0.6821;51.57;70.53;26
+Pterogyne nitens ;SAFM;2;3;1;714;Fabaceae;32.7;11.9;0.7043;484.79;677.12;0.6821;469.86;654.14;26
+Pterogyne nitens ;SAFT;2;2;1;359;Fabaceae;38.6;19.8;0.7043;1101.51;1142.47;0.6821;1067.58;1103.70;26
+Schinus terebinthifolia ;DIV;1;1;1;1303;Anacardiaceae;26.4;16.7;0.4884;311.34;326.62;0.4900;312.33;327.78;27
+Schinus terebinthifolia ;SEM;1;3;2;1622;Anacardiaceae;12.4;11.5;0.4884;49.77;58.78;0.4900;49.93;58.98;27
+Schinus terebinthifolia ;DIV;1;2;1;4960;Anacardiaceae;17.4;12.7;0.4884;105.47;123.28;0.4900;105.81;123.72;27
+Schinus terebinthifolia ;DIV;2;1;1;85;Anacardiaceae;26.7;13.1;0.4884;250.77;307.53;0.4900;251.57;308.61;27
+Schinus terebinthifolia ;DIV;2;1;1;86;Anacardiaceae;10.2;9.5;0.4884;28.01;36.19;0.4900;28.10;36.32;27
+Schinus terebinthifolia ;DIV;2;2;0;800;Anacardiaceae;14.6;6.5;0.4884;38.95;67.80;0.4900;39.07;68.04;27
+Schizolobium parahyba;SEM;1;1;;337;Fabaceae;46.2;20.5;0.3872;902.59;886.84;0.3380;790.48;766.09;28
+Schizolobium parahyba;DIV;1;1;;192;Fabaceae;29.5;21.3;0.3872;390.33;348.68;0.3380;341.84;301.21;28
+Schizolobium parahyba;DIV;1;1;;217;Fabaceae;20.7;11.7;0.3872;108.93;134.69;0.3380;95.40;116.35;28
+Schizolobium parahyba;SEM;2;3;1;615;Fabaceae;35;16.6;0.3872;427.25;459.49;0.3380;374.18;396.93;28
+Schizolobium parahyba;SEM;2;3;;353;Fabaceae;26.9;16.1;0.3872;248.07;260.95;0.3380;217.26;225.42;28
+Senegalia polyphylla;DIV;2;3;1;586;Fabaceae;10.6;9.8;0.6806;43.03;56.71;0.6279;39.77;51.99;29
+Senegalia polyphylla;DIV;2;3;1;592;Fabaceae;31.8;12.6;0.6806;469.48;627.36;0.6279;433.94;575.16;29
+Senegalia polyphylla;DIV;2;3;1;594;Fabaceae;30.5;13.2;0.6806;452.85;583.63;0.6279;418.56;535.07;29
+Senegalia polyphylla;SAFT;2;3;1;699;Fabaceae;10.2;9.2;0.6806;37.53;51.18;0.6279;34.69;46.92;29
+Senegalia polyphylla;SAFM;2;3;1;721;Fabaceae;24.6;12.1;0.6806;272.40;358.55;0.6279;251.78;328.71;29
+Urera baccifera ;CMLT;1;2;2;1360;Urticaceae;10.7;5.3;0.2298;8.34;14.58;0.1650;6.03;10.20;30
+Urera baccifera ;SAFM;1;2;2;7462;Urticaceae;11.1;6.6;0.2298;11.09;16.97;0.1650;8.03;11.88;30
+Urera baccifera ;SAFM;1;2;2;7478;Urticaceae;10.4;7.3;0.2298;10.78;15.31;0.1650;7.80;10.71;30
+Urera baccifera ;SAFM;1;2;2;7479;Urticaceae;16.2;7.5;0.2298;26.29;39.36;0.1650;19.02;27.55;30
+Urera baccifera ;SAFM;1;2;2;7480;Urticaceae;14.3;6.4;0.2298;17.70;28.75;0.1650;12.81;20.13;30
+Urera baccifera ;SAFM;1;2;2;7482;Urticaceae;12;7.4;0.2298;14.44;20.80;0.1650;10.45;14.56;30
+Zeyheria tuberculosa;SAFT;1;3;2;3223;Bignoniaceae;15.2;13.9;0.5570;100.58;110.12;0.6800;122.20;136.51;31
+Zeyheria tuberculosa;SAFT;1;3;2;3224;Bignoniaceae;14.9;14.9;0.5570;103.53;108.10;0.6800;125.79;134.02;31
+Zeyheria tuberculosa;SAFM;1;3;1;3230;Bignoniaceae;13.7;13.3;0.5570;78.66;87.12;0.6800;95.57;108.01;31
+Zeyheria tuberculosa;SAFM;2;1;1;38;Bignoniaceae;14.6;11.2;0.5570;75.30;93.98;0.6800;91.49;116.51;31
+Zeyheria tuberculosa;SAFT;2;2;2;383;Bignoniaceae;13.7;12.6;0.5570;74.61;85.53;0.6800;90.65;106.04;31
+Zeyheria tuberculosa;CMLM;2;2;2;539;Bignoniaceae;11.6;8.5;0.5570;36.72;52.67;0.6800;44.61;65.29;31
+;;;;;;;;;;;;;;;
