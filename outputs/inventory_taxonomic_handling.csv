@@ -1,0 +1,3 @@
+study_species,inventory_label,handling,GWDD_reference_level
+Myroxylon peruiferum,Myroxylum peruiferum L. f.,Harmonized to Myroxylon peruiferum and included at species level,species
+Ficus guaranitica,Ficus sp.,Not assigned to Ficus guaranitica; excluded from inventory scaling,genus fallback used only for descriptive and sampled-tree scenarios
